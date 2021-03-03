@@ -6,7 +6,7 @@ IoT-2021-1 Class resource
 3/3 공부한 내용
 
 
-
+```
 #include <stdio.h>
 
 int main()
@@ -96,3 +96,4 @@ int main()
 		}
 	}
 }
+```
